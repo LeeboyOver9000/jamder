@@ -1,0 +1,1 @@
+Framework estendido de JADE para diferentes arquiteturas internas de MAS-ML2.0
